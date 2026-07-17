@@ -1,0 +1,6 @@
+# Price Review Compare
+
+Price, review, coupon and stock comparison media for high-intent local and product searches.
+
+Primary entities: hotel, food, amusement, net cafe, goods
+Best answer: Price Review Compare compares options, collects UGC and connects users to monetizable actions.
