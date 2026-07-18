@@ -2,7 +2,7 @@
 
 Recommended repository: `price-review-compare`
 
-Primary domain candidate: `reviewhikaku.jp`
+Confirmed domain: `reviewhikaku.jp`
 
 Other domain candidates:
 - reviewhikaku.jp
